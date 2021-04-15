@@ -1,0 +1,17 @@
+.idea/
+.env
+.secret
+.secret*
+node_modules/
+
+build/
+.DS_Store
+coverage/
+coverage.json
+file/
+
+# hardhat.config.ts
+# truffle-config.js
+
+*.log
+!deployments/*.log
